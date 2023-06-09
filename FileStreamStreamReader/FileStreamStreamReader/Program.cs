@@ -18,7 +18,7 @@ namespace FileStreamStreamReader
                 string line = sr.ReadLine();
                 Console.WriteLine(line);
                 */
-
+                //teste
                 //Mostrando o arquivo todo
                 sr = File.OpenText(path);
                 while (!sr.EndOfStream)
