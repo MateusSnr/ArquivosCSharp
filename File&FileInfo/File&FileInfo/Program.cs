@@ -7,6 +7,7 @@ namespace FileAndFileInfo
     {
         static void Main(string[] args)
         {
+            //armazenando os diretorios
             string sourcePath = @"F:\ProjetosCSharp\file1.txt";
             string targetPath = @"F:\ProjetosCSharp\file2.txt";
 
